@@ -1,0 +1,11 @@
+plugins:
+  private_template_tagger_enabled:
+    client: false
+    default: false
+  private_template_tagger_username:
+    client: false
+    default: "templates"
+    type: username
+  private_template_tagger_tag:
+    client: false
+    default: "private"

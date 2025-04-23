@@ -1,0 +1,5 @@
+en:
+  site_settings:
+    private_template_tagger_enabled: "Enable the Private Template Tagger plugin."
+    private_template_tagger_username: "Destination user for the Private Template Tagger."
+    private_template_tagger_tag: "Tag to be applied by the Private Template Tagger."
